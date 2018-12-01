@@ -24,7 +24,8 @@
     "text": "Github",
     "url": "/#",
     "icon": "fa-github"
-  },
+  }
+  // ,
   // {
   //   "text": "XML Feed",
   //   "url": "/feed.xml",
