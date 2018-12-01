@@ -1,1 +1,29 @@
-theme: jekyll-theme-cayman
+title: wjh的个人博客
+description: My Personal Blog 用来记录工作的点滴,分享工作经验,从工作中总结,从总结中进步!
+author: wjh
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/wjhwangjinhui
+#about: Freelance developer
+github_username:  jekyll
+
+baseurl: ""
+url: ""
+
+allowsearch: true
+
+#disqus_shortname: aboutashu
+#google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+#paginate: 20
+#per_page: 20
+#paginate_path: "/page:num/"
+markdown: kramdown
+#gems: [jekyll-paginate, jekyll-gist]
